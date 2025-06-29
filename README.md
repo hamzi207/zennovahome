@@ -1,6 +1,6 @@
 # 🏡 Zennova Home - Shopify E-Commerce Website Development #
 
-** 🛠️ Private Project · Case Study Only **
+**🛠️ Private Project · Case Study Only** 
 
 ## 🔍 Overview ##
 This document serves as a case study for the end-to-end development, management, and scaling of the Shopify e-commerce platform for Zennova Home, a company specializing in home goods. The project involved a complete digital transformation, from initial setup to ongoing feature enhancement and cross-departmental operational management.
