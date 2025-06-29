@@ -1,4 +1,5 @@
 🏡 Zennova Home - Shopify E-Commerce Website Development
+
 🛠️ Private Project · Case Study Only
 
 🔍 Overview
@@ -7,9 +8,11 @@ This document serves as a case study for the end-to-end development, management,
 The live website and its theme code are the private property of Zennova Home and are securely stored on Shopify's servers. Therefore, no proprietary source code is shared here.
 
 👤 My Dual Role
+
 As the central figure in this initiative, I held two key roles, bridging the gap between high-level strategy and hands-on technical execution.
 
 1. Project Manager
+   
 I directed all digital and operational facets of the company. My leadership extended across multiple departments to ensure that the e-commerce platform served as the central hub for all business activities. This included:
 
 Team Leadership: Coordinated the efforts of the development, content, marketing, retail, B2B, wholesale, and customer service teams.
@@ -19,6 +22,7 @@ Operational Oversight: Managed the integration of business-critical functions, i
 Strategic Planning: Drove initiatives to optimize key business processes and enhance digital capabilities across the entire organization.
 
 2. Lead Shopify Developer
+   
 I was responsible for all technical aspects of the Shopify store, from theme customization to custom functionality. My work focused on creating a seamless, high-performing, and user-centric online shopping experience.
 
 Custom Development: Executed deep theme modifications using Shopify Liquid, JavaScript, and jQuery to implement bespoke UX/UI designs.
@@ -27,7 +31,9 @@ Frontend Engineering: Utilized Bootstrap CSS and custom styling to build a fully
 
 Platform Management: Handled all backend configurations, app integrations, and performance optimizations within the Shopify ecosystem.
 
+
 🧰 Tech & Platform Stack
+
 Platform: Shopify
 
 Templating: Shopify Liquid
@@ -37,6 +43,7 @@ Frontend: JavaScript, jQuery, HTML5, Bootstrap CSS, CSS3
 Project Management: Asana, Jira, Confluence
 
 ✨ Key Contributions & Responsibilities
+
 Multi-Platform E-commerce Launch: Led the successful development and launch of the primary e-commerce website for the Zennova Home brand.
 
 Custom UX/UI Implementation: Translated complex design mockups and UX goals into functional, pixel-perfect frontend features using Shopify Liquid and modern JavaScript.
