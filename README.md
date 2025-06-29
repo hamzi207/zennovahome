@@ -55,3 +55,6 @@ Cross-Functional Integration: Served as the primary technical and strategic poin
 Digital Process Improvement: Drove initiatives to optimize key business workflows, including Customer Service, Vendor Management, Procurement, Inventory, Fulfillment, and Digital Marketing, all centered around the Shopify platform.
 
 Team Leadership & Mentorship: Managed the in-house development and content teams, setting priorities, and ensuring alignment with strategic business objectives.
+
+## 📌 Notes  
+This is a **case study only**. The original repository is **private and owned by BBG**. No source code is shared here due to confidentiality.
