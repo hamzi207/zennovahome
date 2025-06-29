@@ -57,4 +57,4 @@ Digital Process Improvement: Drove initiatives to optimize key business workflow
 Team Leadership & Mentorship: Managed the in-house development and content teams, setting priorities, and ensuring alignment with strategic business objectives.
 
 ## 📌 Notes  
-This is a **case study only**. The original repository is **private and owned by BBG**. No source code is shared here due to confidentiality.
+This is a **case study only**. The original repository is **private and owned by Zennova Home Furniture Trading LLC, Abu Dhabi**. No source code is shared here due to confidentiality.
